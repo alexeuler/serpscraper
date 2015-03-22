@@ -1,1 +1,2 @@
-gem 'rails'
+source 'https://rubygems.org'
+gem 'nokogiri'
